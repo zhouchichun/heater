@@ -6,9 +6,45 @@
 热水器一直插电还是即用即插电省电。主要取决于热水器的保温效果（与加热的水量，环境温度等无关）。
 如果完全不插电的情况下，水温降温过大，那么即插即用省电，否则插电省电。
 <center>
-  <img src='D:\机器学习算法总结\pic\rbf.png'></img>
+  <img src='https://github.com/zhouchichun/heater/blob/master/1.png'></img>
   </center>
 <center>
 
 
 ## 过程
+
+### 一直插电
+
+<center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/2.png'></img>
+  </center>
+<center>
+ 
+ ### 一直插电
+
+<center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/3.png'></img>
+  </center>
+<center>
+  
+  <center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/4.png'></img>
+  </center>
+<center>
+  
+  <center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/5.png'></img>
+  </center>
+<center>
+  
+  <center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/6.png'></img>
+  </center>
+<center>
+  
+  ### 总结对比
+  
+  <center>
+  <img src='https://github.com/zhouchichun/heater/blob/master/7.png'></img>
+  </center>
+<center>
