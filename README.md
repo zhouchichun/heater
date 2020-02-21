@@ -9,7 +9,9 @@
 
  ![1](https://github.com/zhouchichun/heater/blob/master/1.png)
 
-
+ ![0](https://github.com/zhouchichun/heater/blob/master/0.png)
+如，上图展示的是不插电与插电能量损耗差值随m和l的变化关系。
+对于差值大于0的部分，说明即插即用省电，对于差值小于零的部分，说明一直插电省电。
 
 ## 过程
 
@@ -35,4 +37,6 @@
   ### 总结对比
   
  ![7](https://github.com/zhouchichun/heater/blob/master/7.png)
+
+
 
